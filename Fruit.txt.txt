@@ -1,6 +1,6 @@
 callphone
 computera
 painter
-appleqqq
-bananaqqqq
-bearqqq
+apple
+banana
+bear
