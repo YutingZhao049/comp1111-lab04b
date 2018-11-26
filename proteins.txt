@@ -1,6 +1,6 @@
 phone
 computer
 printer
-applerrrr
-bananarrrr
-peardddd
+apple
+banana
+pear
