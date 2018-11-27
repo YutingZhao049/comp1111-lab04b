@@ -1,6 +1,9 @@
 callphone
-computera
+computer
 painter
-apple
+apple juice
 banana
 bear
+water
+orange
+vegetable
