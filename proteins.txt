@@ -1,6 +1,9 @@
 phone
 computer
 printer
-apple
+apple juice
 banana
 pear
+orange
+watermelon
+pineapple
