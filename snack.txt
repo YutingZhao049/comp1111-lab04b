@@ -1,6 +1,10 @@
 cake
 chips
 peanuts
+Potato chips
+bread
+candy
 chocolate
 donut
 bubble gum
+
